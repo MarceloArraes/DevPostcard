@@ -22,7 +22,7 @@
     "style": {
         "corners": "double",
         "divider": "triple",
-        "baseColor": "white",
+        "baseColor": "magenta",
         "accentColor": "blue"
     }
 }
