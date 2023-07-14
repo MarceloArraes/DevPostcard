@@ -5,12 +5,7 @@
     "keywords": [
         "npm",
         "npx",
-        "eslint",
-        "prettier",
-        "chalk",
-        "parcel",
-        "business-card",
-        "inquirer"
+        "chalk"
     ],
     "files": [
         "dist"
