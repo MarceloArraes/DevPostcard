@@ -1,6 +1,6 @@
 {
     "name": "marceloarraes",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "marcelo npxPostcard",
     "keywords": [
         "npm",
@@ -14,6 +14,8 @@
     "bin": {
         "marceloarraes": "dist/index.js"
     },
+  "author": "Marcelo Arraes Teixeira",
+  "license": "MIT",
     "homepage": "https://marcelosportfolio.vercel.app/",
     "scripts": {
         "start": "node src/index.js",
