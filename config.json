@@ -1,34 +1,22 @@
 {
     "info": {
-        "name": "Brad Garropy",
-        "handle": "bradgarropy",
-        "company": "Atlassian",
-        "title": "Senior Software Engineer"
+        "name": "Marcelo Arraes Teixeira",
+        "handle": "MarceloArraes",
+        "company": "Accede Holdings",
+        "title": "Full Stack Web Developer"
     },
     "links": [
         {
-            "name": "Website",
-            "url": "https://bradgarropy.com"
-        },
-        {
-            "name": "Twitch",
-            "url": "https://twitch.tv/bradgarropy"
+            "name": "Portfolio Website",
+            "url": "https://marcelosportfolio.vercel.app/"
         },
         {
             "name": "GitHub",
-            "url": "https://github.com/bradgarropy"
-        },
-        {
-            "name": "Twitter",
-            "url": "https://twitter.com/bradgarropy"
-        },
-        {
-            "name": "YouTube",
-            "url": "https://youtube.com/bradgarropy"
+            "url": "https://github.com/MarceloArraes"
         },
         {
             "name": "LinkedIn",
-            "url": "https://linkedin.com/in/bradgarropy"
+            "url": "https://www.linkedin.com/in/MarArraes"
         }
     ],
     "style": {

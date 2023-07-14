@@ -1,6 +1,6 @@
 {
-    "name": "bradgarropy",
-    "version": "2.5.0",
+    "name": "marceloarraes",
+    "version": "1",
     "description": "🃏 npx business card",
     "keywords": [
         "npm",
@@ -12,27 +12,10 @@
         "business-card",
         "inquirer"
     ],
-    "homepage": "https://github.com/bradgarropy/business-card",
-    "bugs": {
-        "url": "https://github.com/bradgarropy/business-card/issues"
-    },
-    "license": "MIT",
-    "author": {
-        "name": "Brad Garropy",
-        "email": "bradgarropy@gmail.com",
-        "url": "https://bradgarropy.com"
-    },
     "files": [
         "dist"
     ],
     "main": "dist/index.js",
-    "bin": {
-        "bradgarropy": "dist/index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/bradgarropy/business-card"
-    },
     "scripts": {
         "start": "node src/index.js",
         "dev": "nodemon src/index.js",
@@ -47,7 +30,6 @@
     },
     "devDependencies": {
         "@babel/eslint-parser": "^7.19.1",
-        "@bradgarropy/eslint-config": "^1.1.0",
         "eslint": "^7.16.0",
         "eslint-config-prettier": "^7.1.0",
         "eslint-plugin-simple-import-sort": "^7.0.0",
