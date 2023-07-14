@@ -1,11 +1,12 @@
 {
     "name": "marceloarraes",
-    "version": "0.0.4",
-    "description": "marcelo npxPostcard",
+    "version": "0.0.6",
+    "description": "marcelo npx Postcard",
     "keywords": [
         "npm",
         "npx",
-        "chalk"
+        "chalk",
+        "inquirer"
     ],
     "files": [
         "dist"

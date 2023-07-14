@@ -4,7 +4,7 @@ const dividers = require("./dividers")
 const {links, style} = require("../config.json")
 
 const space = count => {
-    return " ".repeat(Math.abs(count))
+    return " ".repeat(count)
 }
 
 const divider = count => {
