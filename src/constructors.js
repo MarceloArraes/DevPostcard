@@ -125,24 +125,13 @@ const getLink = (name, url) => {
     const content = [space(shift + indent), name, ": ", url].join("")
     const fill = getFill(content)
 
-    console.log("fill ", fill)
-    let formattedContent
-    if (fill < 0) {
-        formattedContent = [
-            space(shift + indent),
-            colors.base(name),
-            colors.base(": "),
-            colors.accent(url),
-            space(0),
-        ].join("")
-    } else
-        formattedContent = [
-            space(shift + indent),
-            colors.base(name),
-            colors.base(": "),
-            colors.accent(url),
-            space(fill),
-        ].join("")
+    const formattedContent = [
+        space(shift + indent),
+        colors.base(name),
+        colors.base(": "),
+        colors.accent(url),
+        space(fill),
+    ].join("")
 
     const line = getLine(formattedContent)
     return line

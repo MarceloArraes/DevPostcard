@@ -1,6 +1,6 @@
 {
     "name": "marceloarraes",
-    "version": "1",
+    "version": "0.0.1",
     "description": "🃏 npx business card",
     "keywords": [
         "npm",
@@ -16,6 +16,10 @@
         "dist"
     ],
     "main": "dist/index.js",
+    "bin": {
+        "marceloarraes": "dist/index.js"
+    },
+    "homepage": "https://marcelosportfolio.vercel.app/",
     "scripts": {
         "start": "node src/index.js",
         "dev": "nodemon src/index.js",
